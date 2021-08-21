@@ -1,0 +1,9 @@
+Print(DecisioneLevantarse)
+
+x==Levantarse
+
+Print(x)
+if Si Levantarse==”Si” Entonces
+   Print(”Llegaras a tiempo a tu destino”)
+else
+Print(”Es posible que llegues tarde)
